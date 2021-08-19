@@ -12,6 +12,9 @@
 
 
 <h3 align="left"> Github Stats:</h3>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ashwin-patil)
+
 <center>
  <table>
    <tr>
@@ -50,4 +53,5 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.r-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons//r/r-original.svg" alt="r" width="40" height="40"/> </a>
 <a href="https://www.jupyter.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/></a> </p>
+
 
