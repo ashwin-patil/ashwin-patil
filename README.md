@@ -1,17 +1,15 @@
-<h1 align="center">Hi 👋, I'm Ashwin Patil. </h1>
+<h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">, I'm Ashwin Patil. </h1>
 <h3 align="center">Defender/ Blue Teamer/ Threat hunter</h3>
-
-<p align="left"> <a href="https://twitter.com/ashwinpatil" target="blank"><img src="https://img.shields.io/twitter/follow/ashwinpatil?logo=twitter&style=for-the-badge" alt="ashwinpatil" /></a> </p>
-
-![GitHub followers](https://img.shields.io/github/followers/ashwin-patil?style=social)
 
 - 💬 Ask me about **Security Monitoring, Incident Response, Azure Sentinel, KQL, Python, Cloud Security**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ashwinpatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashwinpatil" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ashwinrp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/ashwinrp" height="30" width="40" /></a>
-</p>
+
+[![Twitter: ashwin-patil](https://img.shields.io/twitter/follow/ashwinpatil?style=social)](https://twitter.com/ashwinpatil)
+[![Linkedin: ashwinrp](https://img.shields.io/badge/-ashwinrp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashwinrp/)](https://www.linkedin.com/in/ashwinrp/)
+[![GitHub: ashwin-patil](https://img.shields.io/github/followers/ashwin-patil?label=follow&style=social)](https://github.com/ashwin-patil)
+
+
 
 <h3 align="left"> Github Stats:</h3>
 <center>
