@@ -20,13 +20,10 @@
    <tr>
     <td>
    <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=ashwin-patil&count_private=true&show_icons=true&theme=vision-friendly-dark& layout=compact"/>
-   </td>
- </tr>
-  <tr>
     <td>
-       <img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwin-patil&theme=vision-friendly-dark"  />
+    <img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwin-patil&theme=vision-friendly-dark"  />
      </td>  
-   </tr>
+   </td>
  </table>
 </center>
 
